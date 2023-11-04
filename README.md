@@ -1,4 +1,4 @@
-  # 👋 Hi, I’m Veenit pathe
+-  # 👋 Hi, I’m Veenit pathe
 - ## 👀 I’m Data Analytics and Business Analytics
 - 🌱 I’m currently learning **Advanced Excel, Power BI, SQL, Python**
 - 💞️ I’m looking to collaborate on Data Analytics Projects.
