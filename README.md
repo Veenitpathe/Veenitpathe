@@ -1,5 +1,5 @@
-- # 👋 Hi, I’m @Veenitpathe
-- 👀 I’m interested in Data Analytics and Business Analytics
+  # 👋 Hi, I’m @Veenitpathe
+- # 👀 I’m interested in Data Analytics and Business Analytics
 - 🌱 I’m currently learning **Advanced Excel, Power BI, SQL, Python**
 - 💞️ I’m looking to collaborate on Data Analytics Projects.
 - 📫 How to reach me MAIL - vinitpathe29@gmail.com
